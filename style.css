@@ -1,0 +1,13 @@
+#board {
+    width: 100px;
+    height: 40px;
+    background-color: brown;
+    color: whitesmoke;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.title{
+    font-size: medium;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
